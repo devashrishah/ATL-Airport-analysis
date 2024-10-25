@@ -6,3 +6,5 @@ Data: I have downloaded the airline data from the Bureau of Transportation Stati
 Introduction: Through this dashboard, you will be able to see an overview of the ATL airport which is the busiest airport in the United States. You will be able to find out which are the frequent destinations and a performance dashboard that will let you visualize performance across different carriers.
 
 Plan: Aviation is a very interesting topic for me so I want to keep analyzing more and find trends. I also want to see if there is any change in trends if I include not just the top 5 between all other airlines too. I want to do a comparison analysis between ATL and LAX(the second busiest) airport in the United States.
+
+My Tableau Public: https://public.tableau.com/app/profile/devashri.shah/viz/ATLAirportFlightsAnalysis/ATLAirport?publish=yes
